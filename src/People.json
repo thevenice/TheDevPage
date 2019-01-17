@@ -1,0 +1,262 @@
+[
+  {
+    "name": "Audrey Delgado",
+    "DOB": "1/dec/2018",
+    "type": "web developer",
+    "bio": "Hire me to get fats and beautifully crafted websites and highend security",
+    "contact": {
+      "twitter": "Audrey_Lin_D",
+      "github": "AudreyLin",
+      "email": "Audery@demo.com"
+    },
+    "imageUrl": "https://pbs.twimg.com/profile_images/1908174363/web_biz_card_photo_400x400.jpg",
+    "skills": {
+      "stack": "fullStack",
+      "lang": "JavaScript",
+      "html_css": true,
+      "v_js": true,
+      "fe_f": "React",
+      "be_f": "REST",
+      "other": ["Nextjs", "Express", " MongoDB"]
+    },
+    "borderColor": "#ffbbbb",
+    "country": "US",
+    "available": false,
+    "lat": 48.1234,
+    "lng": 11.1234
+  },
+  {
+    "name": "Ikeoha Chidi",
+    "DOB": "2/nov/2017",
+    "type": "web developer",
+    "bio": "Hire me to get fats and beautifully crafted websites and highend security",
+    "contact": {
+      "twitter": "ikeoha_chidi",
+      "github": "ikeohachidi",
+      "email": "ikeoha@demo.com"
+    },
+    "imageUrl": "https://pbs.twimg.com/profile_images/1005412978697687041/imE0Zyos_400x400.jpg",
+    "skills": {
+      "stack": "fullStack",
+      "lang": "JavaScript",
+      "html_css": true,
+      "v_js": true,
+      "fe_f": "Vue",
+      "be_f": "GraphQL",
+      "other": ["Nuxtjs", "Express", " MongoDB"]
+    },
+    "borderColor": "#a4ded3",
+    "country": "NG",
+    "available": false,
+    "lat": 48.1234,
+    "lng": 11.1234
+  },
+  {
+    "name": "Giwrgos",
+    "DOB": "3/oct/2016",
+    "type": "web developer",
+    "bio": "Hire me to get fats and beautifully crafted websites and highend security",
+    "contact": {
+      "twitter": "skino0",
+      "github": "skino0",
+      "email": "skino0@demo.com"
+    },
+    "imageUrl": "https://pbs.twimg.com/profile_images/1007551708719996928/RTuxyPt-_400x400.jpg",
+    "skills": {
+      "stack": "fullStack",
+      "lang": "JavaScript",
+      "html_css": true,
+      "v_js": true,
+      "fe_f": "Vue",
+      "be_f": "Php",
+      "other": ["Scass", " MongoDB", " Php"]
+    },
+    "borderColor": "#a3a7fb",
+    "country": "GE",
+    "available": true,
+    "lat": 48.1234,
+    "lng": 11.1234
+  },
+  {
+    "name": "Nikita Rudenko",
+    "DOB": "4/sept/2015",
+    "type": "web developer",
+    "bio": "Hire me to get fats and beautifully crafted websites and highend security",
+    "contact": {
+      "twitter": "rdnkta",
+      "github": "nick-rudenko",
+      "email": "Nick@demo.com"
+    },
+    "imageUrl": "https://pbs.twimg.com/profile_images/1035176676148301824/QDHWMnWW_400x400.jpg",
+    "skills": {
+      "stack": "fullStack",
+      "lang": "JavaScript",
+      "html_css": true,
+      "v_js": true,
+      "fe_f": "React",
+      "be_f": "Node",
+      "other": ["BootStrap", "Express", " MongoDB"]
+    },
+    "borderColor": "#f2a6ff",
+    "country": "UKE",
+    "available": true,
+    "lat": 48.1234,
+    "lng": 11.1234
+  },
+  {
+    "name": "fake6",
+    "DOB": "1/dec/2000",
+    "type": "web developer",
+    "bio": "Hire me to get fats and beautifully crafted websites and highend security",
+    "contact": {
+      "twitter": "fakeid6",
+      "github": "fakegitid6",
+      "email": "faky6@demo.com"
+    },
+    "imageUrl": "https://pbs.twimg.com/profile_images/995901066775539713/g_bEJskv_400x400.jpg",
+    "skills": {
+      "stack": "backend",
+      "lang": "JavaScript",
+      "html_css": true,
+      "v_js": true,
+      "fe_f": "React",
+      "be_f": "REST",
+      "other": ["fake", "fakeExpress", "fake"]
+    },
+    "borderColor": "#ffbbbb",
+    "country": "US",
+    "available": false,
+    "lat": 48.1234,
+    "lng": 11.1234
+  },
+  {
+    "name": "fake5",
+    "DOB": "1/dec/2000",
+    "type": "web developer",
+    "bio": "Hire me to get fats and beautifully crafted websites and highend security",
+    "contact": {
+      "twitter": "fakeid5",
+      "github": "fakegitid5",
+      "email": "faky5@demo.com"
+    },
+    "imageUrl": "https://pbs.twimg.com/profile_images/995901066775539713/g_bEJskv_400x400.jpg",
+    "skills": {
+      "stack": "frontend",
+      "lang": "JavaScript",
+      "html_css": true,
+      "v_js": true,
+      "fe_f": "React",
+      "be_f": "REST",
+      "other": ["fake", "fakeExpress", "fake"]
+    },
+    "borderColor": "#ffbbbb",
+    "country": "US",
+    "available": false,
+    "lat": 48.1234,
+    "lng": 11.1234
+  },
+  {
+    "name": "fake4",
+    "DOB": "1/dec/2000",
+    "type": "web developer",
+    "bio": "Hire me to get fats and beautifully crafted websites and highend security",
+    "contact": {
+      "twitter": "fakeid4",
+      "github": "fakegitid4",
+      "email": "faky4@demo.com"
+    },
+    "imageUrl": "https://pbs.twimg.com/profile_images/995901066775539713/g_bEJskv_400x400.jpg",
+    "skills": {
+      "stack": "backend",
+      "lang": "JavaScript",
+      "html_css": true,
+      "v_js": true,
+      "fe_f": "React",
+      "be_f": "REST",
+      "other": ["fake", "fakeExpress", "fake"]
+    },
+    "borderColor": "#ffbbbb",
+    "country": "US",
+    "available": false,
+    "lat": 48.1234,
+    "lng": 11.1234
+  },
+  {
+    "name": "fake3",
+    "DOB": "1/dec/2000",
+    "type": "software developer",
+    "bio": "Hire me to get fats and beautifully crafted websites and highend security",
+    "contact": {
+      "twitter": "fakeid3",
+      "github": "fakegitid3",
+      "email": "faky3@demo.com"
+    },
+    "imageUrl": "https://pbs.twimg.com/profile_images/995901066775539713/g_bEJskv_400x400.jpg",
+    "skills": {
+      "stack": "frontend",
+      "lang": "JavaScript",
+      "html_css": true,
+      "v_js": true,
+      "fe_f": "React",
+      "be_f": "REST",
+      "other": ["fake", "fakeExpress", "fake"]
+    },
+    "borderColor": "#ffbbbb",
+    "country": "US",
+    "available": false,
+    "lat": 48.1234,
+    "lng": 11.1234
+  },
+  {
+    "name": "fake2",
+    "DOB": "1/dec/2000",
+    "type": "os developer",
+    "bio": "Hire me to get fats and beautifully crafted websites and highend security",
+    "contact": {
+      "twitter": "fakeid2",
+      "github": "fakegitid2",
+      "email": "faky2@demo.com"
+    },
+    "imageUrl": "https://pbs.twimg.com/profile_images/995901066775539713/g_bEJskv_400x400.jpg",
+    "skills": {
+      "stack": "backend",
+      "lang": "JavaScript",
+      "html_css": true,
+      "v_js": true,
+      "fe_f": "React",
+      "be_f": "REST",
+      "other": ["fake", "fakeExpress", "fake"]
+    },
+    "borderColor": "#ffbbbb",
+    "country": "US",
+    "available": false,
+    "lat": 48.1234,
+    "lng": 11.1234
+  },
+  {
+    "name": "fake0",
+    "DOB": "1/dec/2000",
+    "type": "software developer",
+    "bio": "Hire me to get fats and beautifully crafted websites and highend security",
+    "contact": {
+      "twitter": "fakeid0",
+      "github": "fakegitid0",
+      "email": "faky0@demo.com"
+    },
+    "imageUrl": "https://pbs.twimg.com/profile_images/995901066775539713/g_bEJskv_400x400.jpg",
+    "skills": {
+      "stack": "frontend",
+      "lang": "JavaScript",
+      "html_css": true,
+      "v_js": true,
+      "fe_f": "React",
+      "be_f": "REST",
+      "other": ["fake", "fakeExpress", "fake"]
+    },
+    "borderColor": "#ffbbbb",
+    "country": "US",
+    "available": false,
+    "lat": 48.1234,
+    "lng": 11.1234
+  }
+]
