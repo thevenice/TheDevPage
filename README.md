@@ -1,10 +1,12 @@
-Project Name : Devpage
+<strong>Project Name </strong> : Devpage
 <br/>
-Purpose : this Platform is for unemployed Developers, who are looking for a remote /full time/hourly/ etc type of payable jobs.
+<strong>Purpose </strong>: This Platform is for unemployed Developers, who are looking for a remote /full time/hourly/ etc type of payable jobs.
 <br/>
-stack: frontend: react, react-router, styled-components
+<strong>Stack</strong>:
 <br/>
-backend: gql, mongodb express (yet to decide)
+<strong>Frontend</strong>: react, react-router, styled-components
 <br/>
-Note: frontend is more than 60% ready to review.
+<strong>Backend</strong>: gql, mongodb express (yet to decide)
+<br/>
+<strong>Note</strong>: frontend is more than 60% ready to review.
 
