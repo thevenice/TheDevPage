@@ -9,4 +9,5 @@
 <strong>Backend</strong>: gql, mongodb express (yet to decide)
 <br/>
 <strong>Note</strong>: frontend is more than 60% ready to review.
-
+<strong>How to Install</strong>: Simply clone this repository and open terminal within th folder and run " yarn start".
+<strong>Modules you need to Install first</strong>: 1)react/react-router, 2) styled-components
