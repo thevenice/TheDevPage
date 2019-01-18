@@ -127,7 +127,7 @@ class PerPerson extends React.Component {
                           <img src={person.imageUrl} alt="150px" />
                           <div>
                             <p>{person.name}</p>
-                            <p>{person.type}</p>
+                            <p className="P_Type">{person.type}</p>
                           </div>
                         </ImgBg>
 

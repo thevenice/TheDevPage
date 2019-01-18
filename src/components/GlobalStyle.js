@@ -41,6 +41,10 @@ box-sizing:border-box;
   box-sizing:border-box;
   
 }
+/* dev type */
+.P_Type{
+  color:${theme.gold}!important
+}
 body {
 /* img and videos */
 img, video {z-index: 1}
@@ -50,7 +54,7 @@ img, video {z-index: 1}
 cite, cite * {color: #029833 !important}
 :link, :link * {color: #8db2e5 !important}
 input, textarea {background-color: #333333 !important}
-  a {color:${theme.goldopa}!important;
+  a {color:${theme.gold}!important;
     background-color: rgba(255, 255, 255, 0.01) !important}
 :visited, :visited * {color: gold !important}
 html, body, input, select, button {background-image: none !important}

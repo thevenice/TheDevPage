@@ -55,7 +55,9 @@ const Navbar = props => {
                 {navhidefun("/dashboard", "Account")}
                 <div>
                   {" "}
-                  <DarkLord onClick={_ => value.onDark()}>Dark</DarkLord>
+                  <DarkLord onClick={_ => value.onDark()}>
+                    {!value.state.highlight ? "Light" : "Dark"}
+                  </DarkLord>
                 </div>
               </NavHide>
             </NavHideOn>

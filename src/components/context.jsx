@@ -46,8 +46,8 @@ class MyProvider extends React.Component {
           },
           onDark: () => {
             !this.state.highlight
-              ? this.setState({ highlight: true })
-              : this.setState({ highlight: false });
+              ? this.setState({ highlight: true, navToggle: false })
+              : this.setState({ highlight: false, navToggle: false });
           },
           onFilterOpen: () => {
             !this.state.filterClose

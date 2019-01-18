@@ -80,11 +80,15 @@ const Nav1 = styled.h1`
   align-items: center;
   padding: 0;
   margin: 0;
+  font-family: "Anton", cursive;
+  letter-spacing: 2px;
+  font-weight: 400;
+  text-shadow: 2px 2px ${theme.black2};
   a {
-    color: ${theme.golddark}!important;
+    color: ${theme.gold}!important;
     background-color: inherit;
     border-radius: 2px;
-    font-size: 26px;
+    font-size: 30px;
     padding: 2px 5px;
     /* margin-right: 2rem; */
     /* padding: 8px 19px; */
@@ -93,7 +97,7 @@ const Nav1 = styled.h1`
   @media (min-width: ${sizes.tablet}px) {
     padding: 0;
     a {
-      font-size: 25px;
+      font-size: 32px;
     }
   }
 `;
@@ -106,6 +110,8 @@ const NavHide = styled.div`
   grid-column-gap: 1rem;
   height: 100vh;
   background-color: inherit;
+  font-family: "Exo 2", sans-serif;
+  /* text-transform: uppercase; */
   font-size: 1.5em;
   font-weight: 400;
   border-bottom: 1px solid ${theme.borderlight};
