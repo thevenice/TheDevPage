@@ -60,6 +60,13 @@ const MCards = styled.div`
   width: 100% !important;
   height: 100% !important;
   background-color: ${theme.white};
+  *>p {
+    margin-bottom: 0;
+  }
+  /* box-shadow: -5px 5px ${theme.gold}, 5px -5px ${
+  theme.black2
+}, -5px -5px blue,
+    5px 5px #000, 5px -5px ${theme.gold}; */
   color: ${theme.black2};
   border: 1px solid ${theme.borderlight};
   /* fonts */

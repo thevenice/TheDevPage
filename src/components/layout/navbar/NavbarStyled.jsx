@@ -80,7 +80,7 @@ const Nav1 = styled.h1`
   align-items: center;
   padding: 0;
   margin: 0;
-  font-family: "Anton", cursive;
+  font-family: "Anton", sans-serif;
   letter-spacing: 2px;
   font-weight: 400;
   text-shadow: 2px 2px ${theme.black2};

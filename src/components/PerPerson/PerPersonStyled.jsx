@@ -96,7 +96,8 @@ const ImgBg = styled.div`
 `;
 const DetailBelow = styled.div`
   box-sizing: border-box;
-  padding-left: 1.5rem;
+  padding-left: 0.7rem;
+  padding-right: 0.7rem;
   /* border-bottom: 1px solid #000; */
 
   a {
@@ -121,15 +122,18 @@ const DetailBelow = styled.div`
 `;
 const DetailsBDiv = styled.div`
   ul {
-    line-height: 0.7;
+    text-align: center;
+    line-height: 0.9;
     padding: 0;
     margin-bottom: 2.4rem;
   }
   ul > p {
+    margin-left: ${props => (props.bio ? "15%" : "0")};
+    margin-right: ${props => (props.bio ? "15%" : "0")};
     line-height: ${props => (props.bio ? 1.2 : 0.7)};
   }
   ul > p:nth-child(1) {
-    font-size: 12px;
+    font-size: 0.8em;
     font-weight: 600;
     text-transform: uppercase;
     color: ${theme.black2};
@@ -137,14 +141,15 @@ const DetailsBDiv = styled.div`
   }
 
   ul > p:nth-child(2) {
-    font-size: 18px;
+    margin-top: 9px;
+    font-size: 1.5em;
     color: ${theme.blackhover};
-    font-weight: ${props => (props.bio ? 400 : 470)};
+    font-weight: 470;
   }
   @media (min-width: ${sizes.tablet}px) {
     /* atleast tablet size to apply this */
     ul > p:nth-child(1) {
-      font-size: ${props => (props.bio ? "1rem" : "0.8rem")};
+      font-size: 0.8rem;
     }
     ul > p:nth-child(2) {
       font-size: 1.2rem;
