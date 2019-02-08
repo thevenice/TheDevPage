@@ -1,3 +1,6 @@
+<img src="https://pbs.twimg.com/media/Dy5Dn_XVsAE9T9s?format=jpg&name=4096x4096" alt="devpage front page in dark"/>
+<img src="https://pbs.twimg.com/media/Dy5Dn-aU8AIN-4G?format=jpg&name=4096x4096" alt="devpage front page in light"/>
+
 <strong>Project Name </strong> : Devpage
 <br/>
 <strong>Purpose </strong>: This Platform is for unemployed Developers, who are looking for a remote /full time/hourly/ etc type of payable jobs.
