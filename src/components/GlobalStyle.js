@@ -23,6 +23,7 @@ const theme = {
   black2: "#2d2d2d",
   blackhover: "#2a2a2a",
   borderlight: "#bebebe",
+  borderThin: "#efefef",
   cardbg: "#a5a5a5",
   purpleDark: "#4527a0",
   purpleLight: "#9575cd",
@@ -52,11 +53,11 @@ img, video {z-index: 1}
 * {border-color: ${theme.darkModeBorder} !important;
   box-shadow:none!important;}
 cite, cite * {color: #029833 !important}
-:link, :link * {color: #8db2e5 !important}
+:link, :link * {color: ${theme.goldopa} !important}
 input, textarea {background-color: #333333 !important}
   a {color:${theme.gold}!important;
     background-color: rgba(255, 255, 255, 0.01) !important}
-:visited, :visited * {color: gold !important}
+:visited, :visited * {color: ${theme.goldopa} !important}
 html, body, input, select, button {background-image: none !important}
 
 video {
@@ -103,7 +104,8 @@ box-sizing:border-box;
 }
 body {  transition: all 200ms ease-in-out;
   min-width: 360px;
-  background:${theme.whiteoff};
+  /* background-image:linear-gradient(34deg,#B5D43C,#B5D43C); */
+  background-color:${theme.whiteoff};
   box-sizing: border-box;
    /* overflow-x: hidden; */
   padding: 0;

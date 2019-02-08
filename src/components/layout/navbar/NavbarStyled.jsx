@@ -80,16 +80,21 @@ const Nav1 = styled.h1`
   align-items: center;
   padding: 0;
   margin: 0;
-  font-family: "Anton", sans-serif;
-  letter-spacing: 2px;
-  font-weight: 400;
-  text-shadow: 2px 2px ${theme.black2};
+  font-family: "Dancing Script", -apple-system;
+  letter-spacing: 1.2px;
+  font-weight: 900;
+  /* text-shadow: 0.5px 0.5px ${theme.black2}; */
   a {
-    color: ${theme.gold}!important;
-    background-color: inherit;
+    /* bg gradient */
+    background: linear-gradient(30deg, #849100, #8b6f1b, gold);
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent;
+    /* bg gradient */
     border-radius: 2px;
-    font-size: 30px;
+    font-size: 1.9em;
     padding: 2px 5px;
+    user-select:none;
     /* margin-right: 2rem; */
     /* padding: 8px 19px; */
     z-index: 11;
@@ -97,7 +102,7 @@ const Nav1 = styled.h1`
   @media (min-width: ${sizes.tablet}px) {
     padding: 0;
     a {
-      font-size: 32px;
+      font-size: 2.2em;
     }
   }
 `;

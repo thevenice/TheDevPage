@@ -9,48 +9,37 @@ class LandingPage extends React.Component {
         {/*  RESPONSIVE Done */}
         <LandChild>
           <div>
-            <h1>BIG HEADING HERE</h1>
+            <h1>Welcome to DevPage </h1>
             <p>
-              Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum
-              unde harum.
+              We have some of the best Learner who are looking for their first
+              project, let's explore the right one to team up with you.
             </p>
           </div>
-          <Div2>Div2</Div2>
+          <Div2 />
         </LandChild>
         <LandChild>
-          <Div3>Div3</Div3>
+          <Div3 />
           <div>
             {" "}
-            <h1>BIG HEADING HERE</h1>
-            <p>
-              Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum
-              unde harum.
-            </p>
+            <h1>Purpose</h1>
+            <p>we are hire to help developers and hiring agencies</p>
           </div>
         </LandChild>
-        <div>
-          <h1>Team Creator</h1>
+        <div className={"_creator"}>
+          <div>
+            <h1 className={"headershadow"}>Team Creator</h1>
+          </div>
+          <LandChild>
+            <div className={"_singlechild"}>
+              <h2>Prakash Pawar</h2>
+              <p>Just a self taught webdev trying to prove his worth.</p>
+            </div>
+          </LandChild>
         </div>
-        <LandChild>
-          <div>
-            <h2>NAME</h2>
-            <p>
-              Lorem ipsum dolor sit amet consectetur, adipisicing elit.
-              Accusantium quibusdam ipsum aperiam cum.
-            </p>
-          </div>
-          <div>
-            <h2>NAME</h2>
-            <p>
-              Lorem ipsum dolor sit amet consectetur, adipisicing elit.
-              Accusantium quibusdam ipsum aperiam cum.
-            </p>
-          </div>
-        </LandChild>
-        <LandChild>
+        {/* <LandChild>
           <div>div7</div>
           <div>div8</div>
-        </LandChild>
+        </LandChild> */}
       </MainTop>
     );
   }

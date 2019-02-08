@@ -7,7 +7,7 @@ const DashBoardWrap = styled.div`
   grid-row-gap: 5em;
   grid-column-gap: 0rem;
   padding: 1em;
-  background-color: ${theme.whiteoff};
+  /* background-color: ${theme.whiteoff}; */
   > div {
     box-shadow: 0px 2px 4px 0px ${theme.borderlight};
     border-radius: 8px;
