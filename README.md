@@ -1,5 +1,5 @@
-<img src="https://pbs.twimg.com/media/Dy5Dn_XVsAE9T9s?format=jpg&name=4096x4096" alt="devpage front page in dark"/>
-<img src="https://pbs.twimg.com/media/Dy5Dn-aU8AIN-4G?format=jpg&name=4096x4096" alt="devpage front page in light"/>
+<img src="https://pbs.twimg.com/media/Dy5Dn_XVsAE9T9s?format=jpg&name=4096x4096" alt="devpage front page in dark" width="200px"/>
+<img src="https://pbs.twimg.com/media/Dy5Dn-aU8AIN-4G?format=jpg&name=4096x4096" alt="devpage front page in light" width="200px"/>
 
 <strong>Project Name </strong> : Devpage
 <br/>
