@@ -1,4 +1,14 @@
+type Link {
+  id: ID! @unique
+  description: String!
+  postedBy: User
+  url: String!
+}
+
 type User {
   id: ID! @unique
   name: String!
+  email: String! @unique
+  password: String!
+  links: [Link!]!
 }

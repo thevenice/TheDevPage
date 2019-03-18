@@ -1,8 +1,15 @@
 {
+  "name": "devpage-server",
+  "scripts": {
+    "start": "nodemon src/index.js",
+    "deploy": "prisma deploy --env-file var.env"
+  },
   "dependencies": {
-    "bcrypt": "^3.0.4",
+    "bcryptjs": "^2.4.3",
+    "dotenv": "^7.0.0",
     "graphql-yoga": "^1.17.4",
     "jsonwebtoken": "^8.5.0",
-    "nodemon": "^1.18.10"
+    "nodemon": "^1.18.10",
+    "prisma-client-lib": "^1.28.3"
   }
 }
